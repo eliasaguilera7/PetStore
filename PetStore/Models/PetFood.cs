@@ -19,7 +19,7 @@ namespace PetStore.Models
         public virtual Double Weight { get; set; }
         public virtual String Brand { get; set; }
 
-        [Display(Name="Type of Animal Food is For")]
+        [Display(Name="Type of Animal Food is for")]
         public virtual String TypeOfAnimalFoodIsFor { get; set; }
         //This is a comment lets see if now somethig changes . ANd now another change!!jhjhjh
 
